@@ -10,3 +10,4 @@
   - I'd love to meet new people and make friends! 
   - I can also speak Japanese (cz I love watching anime~
 
+![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
