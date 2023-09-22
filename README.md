@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CS61C and CS161
+- 🌱 I’m currently learning CS61B, CS70, DATA100 and 15-213(CMU)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you are interested in!
