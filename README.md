@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CS61B, CS70, DATA100 and 15-213(CMU)
+- 🌱 I’m currently learning CS61B, CS188, CS198-75 and 15-213(CMU)
 - 🤔 I’m looking for SWE Internship for Summer 2024
 - 💬 Ask me about anything you are interested in!
 - 📫 How to reach me: ...
