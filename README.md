@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning CS61B, CS188, CS198-75 and 15-213(CMU)
 - 🤔 I’m looking for SWE Internship for Summer 2024
-- 💬 Ask me about anything you are interested in!
+- 💬 You can also call me Enty520 in the Internet or Ruichen Li which is my legal name
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
